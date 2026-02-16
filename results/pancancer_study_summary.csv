@@ -1,0 +1,32 @@
+study_id,tumor,n_mutations,n_hrr_missense,n_patients
+brca_tcga_pan_can_atlas_2018,Breast,84226,192,127
+ov_tcga_pan_can_atlas_2018,Ovarian,36091,79,65
+paad_tcga_pan_can_atlas_2018,Pancreas,20703,42,13
+prad_tcga_pan_can_atlas_2018,Prostate,21448,52,40
+blca_tcga_pan_can_atlas_2018,Bladder,99709,355,186
+ucec_tcga_pan_can_atlas_2018,Endometrial,538948,1240,184
+luad_tcga_pan_can_atlas_2018,Lung Adeno,157142,266,179
+lusc_tcga_pan_can_atlas_2018,Lung Squamous,126566,207,142
+coadread_tcga_pan_can_atlas_2018,Colorectal,208739,403,130
+stad_tcga_pan_can_atlas_2018,Gastric,147953,220,106
+hnsc_tcga_pan_can_atlas_2018,Head & Neck,74990,166,125
+skcm_tcga_pan_can_atlas_2018,Melanoma,325843,426,205
+lihc_tcga_pan_can_atlas_2018,Liver,36216,63,53
+chol_tcga_pan_can_atlas_2018,Cholangiocarcinoma,1965,5,4
+esca_tcga_pan_can_atlas_2018,Esophageal,25630,44,33
+kirc_tcga_pan_can_atlas_2018,Kidney ccRCC,20194,52,47
+kirp_tcga_pan_can_atlas_2018,Kidney Papillary,20308,37,35
+gbm_tcga_pan_can_atlas_2018,Glioblastoma,46099,112,47
+lgg_tcga_pan_can_atlas_2018,Low Grade Glioma,27153,96,58
+sarc_tcga_pan_can_atlas_2018,Sarcoma,17393,33,27
+thca_tcga_pan_can_atlas_2018,Thyroid,7621,20,20
+cesc_tcga_pan_can_atlas_2018,Cervical,56054,123,72
+acc_tcga_pan_can_atlas_2018,Adrenocortical,7568,9,7
+meso_tcga_pan_can_atlas_2018,Mesothelioma,2488,8,7
+uvm_tcga_pan_can_atlas_2018,Uveal Melanoma,1350,2,2
+dlbc_tcga_pan_can_atlas_2018,DLBCL,4841,12,7
+tgct_tcga_pan_can_atlas_2018,Testicular,2157,2,2
+thym_tcga_pan_can_atlas_2018,Thymoma,2724,5,3
+pcpg_tcga_pan_can_atlas_2018,Pheochromocytoma,1793,4,4
+kich_tcga_pan_can_atlas_2018,Kidney Chromophobe,2113,3,2
+ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,7303,23,7
