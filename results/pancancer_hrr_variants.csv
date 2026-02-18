@@ -119,8 +119,8 @@ brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A0HP-01,TCGA-BH-A0HP,FANCA,0.1425,be
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18G-01,TCGA-BH-A18G,ATRX,0.159,benign
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18K-01,TCGA-BH-A18K,ATRX,0.9504,pathogenic
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18P-01,TCGA-BH-A18P,RAD50,0.8939,pathogenic
-brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18U-01,TCGA-BH-A18U,ATRX,0.0671,benign
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18U-01,TCGA-BH-A18U,ATRX,0.8924,pathogenic
+brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18U-01,TCGA-BH-A18U,ATRX,0.0671,benign
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A18U-01,TCGA-BH-A18U,MRE11,0.5391,ambiguous
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A1EO-01,TCGA-BH-A1EO,FANCA,0.0784,benign
 brca_tcga_pan_can_atlas_2018,Breast,TCGA-BH-A1FJ-01,TCGA-BH-A1FJ,CDK12,0.1237,benign
@@ -281,22 +281,22 @@ paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-FZ-5920-01,TCGA-FZ-5920,FANCC,0.6271,
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-HZ-8001-01,TCGA-HZ-8001,ATR,0.0769,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-HZ-A49I-01,TCGA-HZ-A49I,FANCD2,0.1014,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATM,0.8411,pathogenic
-paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATM,0.8328,pathogenic
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATM,0.1767,benign
+paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATM,0.8328,pathogenic
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATM,0.9901,pathogenic
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATR,0.9495,pathogenic
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATR,0.963,pathogenic
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATR,0.4877,ambiguous
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,ATR,0.3779,ambiguous
-paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BARD1,0.0911,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BARD1,0.1905,benign
+paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BARD1,0.0911,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA1,0.0999,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA1,0.0823,benign
+paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.1181,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.4814,ambiguous
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.1124,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.1072,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.057,benign
-paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,BRCA2,0.1181,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,FANCA,0.0943,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,FANCC,0.1265,benign
 paad_tcga_pan_can_atlas_2018,Pancreas,TCGA-IB-7651-01,TCGA-IB-7651,FANCG,0.0845,benign
@@ -446,8 +446,8 @@ blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AV-01,TCGA-DK-A6AV,ATR,0.3087,ben
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATM,0.2851,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATM,0.2834,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATM,0.1476,benign
-blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATR,0.1136,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATR,0.5124,ambiguous
+blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATR,0.1136,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,ATRX,0.101,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,BARD1,0.0765,benign
 blca_tcga_pan_can_atlas_2018,Bladder,TCGA-DK-A6AW-01,TCGA-DK-A6AW,BRCA2,0.1335,benign
@@ -740,8 +740,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.2992
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.0802,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.2924,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.1316,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.0761,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.1887,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATM,0.0761,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATR,0.1268,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATR,0.8387,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0G2-01,TCGA-A5-A0G2,ATR,0.0849,benign
@@ -797,8 +797,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0GP-01,TCGA-A5-A0GP,FANCG,0.09
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0GP-01,TCGA-A5-A0GP,PALB2,0.0693,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0GW-01,TCGA-A5-A0GW,BRCA2,0.0928,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0R9-01,TCGA-A5-A0R9,BRCA2,0.0932,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0VP-01,TCGA-A5-A0VP,ATR,0.4264,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0VP-01,TCGA-A5-A0VP,ATR,0.0655,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0VP-01,TCGA-A5-A0VP,ATR,0.4264,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0VP-01,TCGA-A5-A0VP,FANCG,0.6202,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A0VP-01,TCGA-A5-A0VP,RAD54L,0.9995,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A1OF-01,TCGA-A5-A1OF,ATM,0.0892,benign
@@ -841,14 +841,14 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.647
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.8245,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.1878,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.4845,ambiguous
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.9791,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.2013,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,ATRX,0.9791,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BARD1,0.0725,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA1,0.1571,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA1,0.1325,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA2,0.2839,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA2,0.0928,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA2,0.1755,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,BRCA2,0.2839,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,CHEK1,0.6073,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,FANCC,0.0778,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-A5-A2K5-01,TCGA-A5-A2K5,FANCG,0.2158,benign
@@ -897,16 +897,16 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EK-01,TCGA-AJ-A3EK,PALB2,0.08
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATM,0.1926,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATM,0.9889,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATM,0.2851,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATR,0.1145,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATR,0.1614,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATR,0.1145,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATRX,0.7066,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATRX,0.1393,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,ATRX,0.8947,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA1,0.4499,ambiguous
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA2,0.3069,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA2,0.1238,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA2,0.1826,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA2,0.3102,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,BRCA2,0.3069,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,CHEK1,0.9706,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,FANCD2,0.0723,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A3EL-01,TCGA-AJ-A3EL,FANCD2,0.0719,benign
@@ -928,11 +928,11 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A8CT-01,TCGA-AJ-A8CT,FANCA,0.06
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A8CW-01,TCGA-AJ-A8CW,BRCA2,0.1117,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AJ-A8CW-01,TCGA-AJ-A8CW,RAD50,0.5605,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATM,0.9894,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATR,0.2018,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATR,0.6946,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATR,0.2018,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATR,0.2758,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATRX,0.0675,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATRX,0.8626,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,ATRX,0.0675,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRCA1,0.1155,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRCA1,0.0796,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRCA1,0.1921,benign
@@ -941,8 +941,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRCA2,0.08
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRCA2,0.0783,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,FANCC,0.1484,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,FANCE,0.2813,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,NBN,0.1032,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,NBN,0.0966,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,NBN,0.1032,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,CDK12,0.9327,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A051-01,TCGA-AP-A051,BRIP1,0.9497,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A054-01,TCGA-AP-A054,ATR,0.1287,benign
@@ -950,16 +950,16 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A054-01,TCGA-AP-A054,ATR,0.4283
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.3749,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.5125,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.1183,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.3221,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.0937,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.3221,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.2278,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATM,0.6413,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATR,0.0925,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATR,0.205,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,ATRX,0.3001,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BARD1,0.3818,ambiguous
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRCA1,0.1278,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRCA1,0.118,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRCA1,0.1278,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRCA1,0.0981,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRCA2,0.1412,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,RAD51C,0.0602,benign
@@ -968,25 +968,25 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,CDK12,0.63
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,FANCL,0.0609,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,FANCL,0.0649,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A056-01,TCGA-AP-A056,BRIP1,0.0532,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATM,0.8473,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATM,0.0996,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATM,0.6897,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATM,0.3379,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATM,0.8473,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATR,0.1761,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATR,0.2324,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATR,0.642,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATR,0.4529,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATR,0.1143,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATRX,0.3811,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATRX,0.9998,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATRX,0.0756,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,ATRX,0.3811,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BARD1,0.0673,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BARD1,0.0967,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.0956,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.1393,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.8556,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.1187,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.0906,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,BRCA2,0.0956,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,CHEK1,0.1502,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,FANCA,0.1527,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,FANCA,0.1175,benign
@@ -998,8 +998,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,FANCG,0.16
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD51C,0.9795,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD51C,0.0635,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD50,0.7771,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD50,0.428,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD50,0.3136,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,RAD50,0.428,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,CDK12,0.1413,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,PALB2,0.2853,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A059-01,TCGA-AP-A059,PALB2,0.1111,benign
@@ -1013,23 +1013,23 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LF-01,TCGA-AP-A0LF,FANCC,0.15
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LG-01,TCGA-AP-A0LG,CHEK1,0.8685,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATM,0.4619,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATM,0.1131,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATR,0.2741,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATR,0.9209,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATR,0.6638,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATR,0.7543,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATR,0.2741,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.9927,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.2982,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.0803,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.9559,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.7812,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.0695,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.0803,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,ATRX,0.2982,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BARD1,0.0495,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BARD1,0.0861,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA1,0.1351,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.0994,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.2227,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.1174,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.0691,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.2227,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.0994,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.1437,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.0791,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.1393,benign
@@ -1038,19 +1038,19 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRCA2,0.13
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCA,0.3125,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCD2,0.488,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCD2,0.8256,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCE,0.066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCE,0.2854,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCE,0.1314,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,FANCE,0.066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,NBN,0.0835,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,RAD51B,0.3188,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,RAD50,0.2308,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,CHEK2,0.3164,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,PALB2,0.1468,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRIP1,0.9536,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRIP1,0.0964,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LM-01,TCGA-AP-A0LM,BRIP1,0.9536,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LP-01,TCGA-AP-A0LP,FANCA,0.1048,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LT-01,TCGA-AP-A0LT,ATM,0.467,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LT-01,TCGA-AP-A0LT,ATM,0.1074,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A0LT-01,TCGA-AP-A0LT,ATM,0.467,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DH-01,TCGA-AP-A1DH,BRIP1,0.0652,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DK-01,TCGA-AP-A1DK,ATM,0.1112,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DK-01,TCGA-AP-A1DK,ATRX,0.899,pathogenic
@@ -1076,9 +1076,9 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DK-01,TCGA-AP-A1DK,PALB2,0.10
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DM-01,TCGA-AP-A1DM,CHEK1,0.161,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DP-01,TCGA-AP-A1DP,CHEK1,0.9982,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DR-01,TCGA-AP-A1DR,FANCD2,0.6805,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATM,0.1875,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATM,0.0774,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATM,0.2348,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATM,0.1875,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATM,0.0663,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATR,0.2503,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,ATR,0.6349,pathogenic
@@ -1100,8 +1100,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,RAD50,0.81
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,CHEK2,0.9711,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,CDK12,0.9988,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,FANCL,0.6102,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,FANCL,0.0609,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,FANCL,0.5662,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,FANCL,0.0609,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,PALB2,0.0857,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,BRIP1,0.181,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AP-A1DV-01,TCGA-AP-A1DV,BRIP1,0.6895,pathogenic
@@ -1133,8 +1133,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,ATRX,0.108
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,BRCA2,0.0634,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,BRCA2,0.0683,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,FANCA,0.2398,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,FANCC,0.1124,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,FANCC,0.075,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,FANCC,0.1124,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,RAD50,0.9086,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,RAD50,0.1284,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A05Z-01,TCGA-AX-A05Z,RAD50,0.0942,benign
@@ -1162,10 +1162,10 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATM,0.1853
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATM,0.3935,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATR,0.1915,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.087,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.0684,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.2241,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.1296,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.0703,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,ATRX,0.0684,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,BRCA2,0.1307,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,BRCA2,0.1075,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A0J0-01,TCGA-AX-A0J0,BRCA2,0.0897,benign
@@ -1193,9 +1193,9 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1C9-01,TCGA-AX-A1C9,ATM,0.0981
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1C9-01,TCGA-AX-A1C9,ATR,0.27,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1C9-01,TCGA-AX-A1C9,FANCD2,0.2131,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,ATM,0.966,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,ATRX,0.0741,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,ATRX,0.9492,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,ATRX,0.077,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,ATRX,0.0741,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,BRCA1,0.0907,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,BRCA2,0.0535,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,BRCA2,0.0998,benign
@@ -1206,8 +1206,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,FANCD2,0.1
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,FANCD2,0.5592,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,FANCE,0.1178,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,FANCF,0.1305,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,NBN,0.0997,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,NBN,0.3498,ambiguous
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,NBN,0.0997,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,RAD51B,0.109,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,RAD51D,,not_found
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A1CE-01,TCGA-AX-A1CE,RAD54L,0.9729,pathogenic
@@ -1220,9 +1220,9 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2H4-01,TCGA-AX-A2H4,BRCA1,0.08
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2H4-01,TCGA-AX-A2H4,CDK12,0.6191,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HA-01,TCGA-AX-A2HA,FANCE,0.1545,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HA-01,TCGA-AX-A2HA,PALB2,0.6621,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATM,0.4571,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATM,0.102,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATM,0.1744,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATM,0.4571,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATM,0.6487,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATR,0.1165,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATR,0.1537,benign
@@ -1234,10 +1234,10 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATRX,0.959
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATRX,0.5987,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATRX,0.084,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,ATRX,0.9998,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRCA2,0.3069,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRCA2,0.0906,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRCA2,0.2282,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRCA2,0.103,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRCA2,0.3069,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,FANCD2,0.0761,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,FANCF,0.1145,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,MRE11,0.2471,benign
@@ -1248,8 +1248,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD51B,0.9
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD54L,0.6127,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD50,0.2738,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD50,0.8881,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD50,0.1021,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD50,0.1665,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,RAD50,0.1021,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,PALB2,0.0734,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HC-01,TCGA-AX-A2HC,BRIP1,0.0704,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-AX-A2HD-01,TCGA-AX-A2HD,ATR,0.1049,benign
@@ -1283,26 +1283,26 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JR-01,TCGA-B5-A0JR,ATR,0.9923
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JU-01,TCGA-B5-A0JU,CHEK2,0.9793,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JV-01,TCGA-B5-A0JV,BRIP1,0.0871,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATM,0.1619,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATR,0.0903,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATR,0.457,ambiguous
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATR,0.0903,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.2793,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.1246,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.1792,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.1003,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.2793,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.102,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.0886,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,ATRX,0.102,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA1,0.8526,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA2,0.0882,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA2,0.0785,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA2,0.1136,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA2,0.0785,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,BRCA2,0.509,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,CHEK1,0.3757,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,FANCA,0.0781,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,FANCC,0.3611,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,FANCD2,0.7778,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,FANCG,0.1464,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,NBN,0.9607,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,NBN,0.3498,ambiguous
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,NBN,0.9607,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,RAD54L,0.1067,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,CHEK2,0.9325,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A0JY-01,TCGA-B5-A0JY,FANCL,0.1692,benign
@@ -1319,11 +1319,11 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,ATRX,0.704
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,ATRX,0.9451,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BARD1,0.1405,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA1,0.1171,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.509,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.138,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.0818,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.0641,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.1174,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,BRCA2,0.509,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,FANCA,0.1931,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,FANCF,0.082,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11E-01,TCGA-B5-A11E,RAD51C,0.2417,benign
@@ -1339,17 +1339,17 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11J-01,TCGA-B5-A11J,FANCE,0.18
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11N-01,TCGA-B5-A11N,ATRX,0.0777,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11N-01,TCGA-B5-A11N,BRCA1,0.1883,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11N-01,TCGA-B5-A11N,RAD50,0.0861,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,ATM,0.6848,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,ATM,0.1635,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,ATM,0.8022,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,ATM,0.6848,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,ATR,0.2934,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,BRCA2,0.6042,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11R-01,TCGA-B5-A11R,CDK12,0.0867,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11U-01,TCGA-B5-A11U,RAD54L,0.1469,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11V-01,TCGA-B5-A11V,PALB2,0.2616,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A11Y-01,TCGA-B5-A11Y,BRCA2,0.0539,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATM,0.1245,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATM,0.1618,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATM,0.1245,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATM,0.0834,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATM,0.1619,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A1MR-01,TCGA-B5-A1MR,ATR,0.8576,pathogenic
@@ -1385,8 +1385,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATR,0.2329
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATR,0.9857,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATR,0.4582,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATR,0.0814,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATRX,0.0822,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATRX,0.141,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,ATRX,0.0822,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,BARD1,0.0777,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,BARD1,0.1262,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FA-01,TCGA-B5-A3FA,BARD1,0.0899,benign
@@ -1411,14 +1411,14 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,ATRX,0.538
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,ATRX,0.4775,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,ATRX,0.932,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA1,0.078,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0849,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0807,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.1251,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.074,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0849,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.1999,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0982,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0785,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0825,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.0807,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.074,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,BRCA2,0.1068,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,FANCA,0.1026,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-B5-A3FC-01,TCGA-B5-A3FC,MRE11,0.3815,ambiguous
@@ -1436,8 +1436,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A0VW-01,TCGA-BG-A0VW,BRCA2,0.78
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A0VZ-01,TCGA-BG-A0VZ,BRIP1,0.2306,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A0YV-01,TCGA-BG-A0YV,ATR,0.0668,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A18C-01,TCGA-BG-A18C,BRCA2,0.6374,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATM,0.1547,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATM,0.0695,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATM,0.1547,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATM,0.0677,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATR,0.942,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BG-A222-01,TCGA-BG-A222,ATR,0.3067,benign
@@ -1476,10 +1476,10 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,ATRX,0.421
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,ATRX,0.1409,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,ATRX,0.3017,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA1,0.2623,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA2,0.0861,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA2,0.0588,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA2,0.3124,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA2,0.107,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,BRCA2,0.0861,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,FANCA,0.0794,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,FANCA,0.0993,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UF-01,TCGA-BS-A0UF,FANCC,0.2039,benign
@@ -1498,24 +1498,24 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UJ-01,TCGA-BS-A0UJ,BRCA2,0.07
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UJ-01,TCGA-BS-A0UJ,CDK12,0.7398,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UJ-01,TCGA-BS-A0UJ,BRIP1,0.9203,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UM-01,TCGA-BS-A0UM,ATM,0.0985,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATM,0.1696,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATM,0.1283,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATM,0.0937,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATM,0.2057,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATM,0.1696,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATR,0.0826,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATR,0.5616,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.3158,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.2427,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.9982,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.9992,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.1165,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,ATRX,0.9992,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,BRCA1,0.0684,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,BRCA2,0.1066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,BRCA2,0.0926,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,BRCA2,0.1066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCC,0.4223,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCD2,0.0624,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCE,0.066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCE,0.1158,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCE,0.066,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCE,0.0674,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,FANCF,0.1138,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,MRE11,0.7322,pathogenic
@@ -1525,8 +1525,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,RAD50,0.99
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-BS-A0UV-01,TCGA-BS-A0UV,CDK12,0.0835,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A0ZO-01,TCGA-D1-A0ZO,RAD51D,,not_found
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A0ZS-01,TCGA-D1-A0ZS,PALB2,0.1791,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATR,0.0571,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATR,0.9845,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATR,0.0571,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATRX,0.1224,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATRX,0.5098,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A103-01,TCGA-D1-A103,ATRX,0.9998,pathogenic
@@ -1570,13 +1570,13 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,ATRX,0.114
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,ATRX,0.164,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,ATRX,0.3279,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,ATRX,0.3272,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA1,0.073,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA1,0.1681,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA1,0.073,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.0905,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1058,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1124,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1962,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1771,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1058,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,BRCA2,0.1614,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,MRE11,0.1967,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-D1-A17Q-01,TCGA-D1-A17Q,MRE11,0.2938,benign
@@ -1638,11 +1638,11 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A0WH-01,TCGA-DI-A0WH,FANCL,0.11
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,ATRX,0.999,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,ATRX,0.9988,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA1,0.0933,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.0736,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.0795,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.2074,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.0789,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.082,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,BRCA2,0.0736,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,CHEK1,0.0796,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,FANCD2,0.1025,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,FANCD2,0.3384,benign
@@ -1652,12 +1652,12 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,RAD50,0.73
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,RAD50,0.0717,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A1BU-01,TCGA-DI-A1BU,CDK12,0.1786,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-DI-A2QY-01,TCGA-DI-A2QY,RAD54L,0.7864,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATM,0.8681,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATM,0.0991,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATM,0.8681,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATM,0.1973,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATM,0.0599,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATR,0.2149,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATR,0.1516,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATR,0.2149,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATR,0.0828,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATRX,0.6563,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATRX,0.0754,benign
@@ -1665,12 +1665,12 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATRX,0.112
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATRX,0.9997,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,ATRX,0.0987,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA1,0.0703,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.0651,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.5708,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.136,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.122,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.0866,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.5708,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.0856,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.0651,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRCA2,0.0909,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,FANCA,0.1576,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,FANCC,0.1438,benign
@@ -1681,11 +1681,11 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,MRE11,0.10
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,MRE11,0.4397,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,NBN,0.4299,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD51C,0.1106,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.1848,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.1093,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.103,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.1544,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.8881,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.1848,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,RAD50,0.0934,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,CDK12,0.681,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-E6-A1LX-01,TCGA-E6-A1LX,BRIP1,0.9884,pathogenic
@@ -1716,8 +1716,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATM,0.6144
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATR,0.0764,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATR,0.0958,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATR,0.4397,ambiguous
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATRX,0.1087,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATRX,0.159,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATRX,0.1087,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATRX,0.915,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,ATRX,0.7654,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22R-01,TCGA-EO-A22R,BARD1,0.0982,benign
@@ -1745,8 +1745,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.092
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.9001,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.0866,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.0678,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.5204,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.0914,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.5204,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,ATRX,0.0677,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,BARD1,0.0683,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22U-01,TCGA-EO-A22U,BRCA1,0.1042,benign
@@ -1780,20 +1780,20 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATR,0.3133
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATR,0.1635,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.6684,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.4607,ambiguous
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.9983,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.1861,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.16,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,ATRX,0.9983,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA1,0.148,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.2139,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.1165,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.2139,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.1004,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.1157,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,BRCA2,0.1219,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,FANCC,0.0955,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,NBN,0.8902,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,RAD50,0.9267,pathogenic
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,RAD50,0.2412,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,RAD50,0.079,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,RAD50,0.2412,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,PALB2,0.1558,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A22X-01,TCGA-EO-A22X,PALB2,0.06,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AU-01,TCGA-EO-A3AU,ATM,0.2928,benign
@@ -1804,8 +1804,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATR,0.1346
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATR,0.8245,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATRX,0.4845,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATRX,0.1447,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATRX,0.5204,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATRX,0.1012,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,ATRX,0.5204,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,BARD1,0.3642,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,FANCC,0.0764,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,MRE11,0.8483,pathogenic
@@ -1816,8 +1816,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,RAD50,0.29
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,PALB2,0.1103,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,BRIP1,0.3649,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AV-01,TCGA-EO-A3AV,BRIP1,0.0791,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,ATM,0.1258,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,ATM,0.0798,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,ATM,0.1258,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,ATR,0.6103,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,BRCA1,0.0684,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,BRCA2,0.9689,pathogenic
@@ -1830,10 +1830,10 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AY-01,TCGA-EO-A3AY,RAD51B,0.8
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AZ-01,TCGA-EO-A3AZ,BRCA1,0.0817,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AZ-01,TCGA-EO-A3AZ,RAD51C,0.5015,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3AZ-01,TCGA-EO-A3AZ,RAD50,0.3362,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.2831,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.1156,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.8789,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.2385,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.8789,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.2831,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.2307,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATM,0.0599,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EO-A3B0-01,TCGA-EO-A3B0,ATR,0.0745,benign
@@ -1862,8 +1862,8 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,ATM,0.2831
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,ATRX,0.0614,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,ATRX,0.5204,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,BRCA2,0.1047,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,FANCD2,0.7778,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,FANCD2,0.0578,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,FANCD2,0.7778,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GD-01,TCGA-EY-A1GD,BRIP1,0.1088,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GE-01,TCGA-EY-A1GE,ATR,0.8334,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-EY-A1GF-01,TCGA-EY-A1GF,BRCA2,0.1727,benign
@@ -1918,13 +1918,13 @@ ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA1,0.11
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA1,0.0988,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA1,0.1547,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA1,0.1414,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA2,0.2806,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA2,0.1104,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA2,0.1011,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA2,0.0808,benign
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,BRCA2,0.2806,benign
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCA,0.1692,benign
-ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCA,0.9569,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCA,0.6,pathogenic
+ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCA,0.9569,pathogenic
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCD2,0.5128,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCD2,0.5009,ambiguous
 ucec_tcga_pan_can_atlas_2018,Endometrial,TCGA-FI-A2D5-01,TCGA-FI-A2D5,FANCD2,0.8239,pathogenic
@@ -2351,8 +2351,8 @@ lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2771-01,TCGA-66-2771,ATR,0.08
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2773-01,TCGA-66-2773,FANCF,0.1082,benign
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2781-01,TCGA-66-2781,ATRX,0.3973,ambiguous
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2785-01,TCGA-66-2785,ATR,0.1894,benign
-lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2785-01,TCGA-66-2785,ATR,0.9876,pathogenic
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2785-01,TCGA-66-2785,ATR,0.3247,benign
+lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2785-01,TCGA-66-2785,ATR,0.9876,pathogenic
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2786-01,TCGA-66-2786,ATRX,0.067,benign
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2787-01,TCGA-66-2787,BRCA2,0.3497,ambiguous
 lusc_tcga_pan_can_atlas_2018,Lung Squamous,TCGA-66-2793-01,TCGA-66-2793,ATM,0.1822,benign
@@ -2498,14 +2498,14 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3947-01,TCGA-AA-3947,FANCA,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3947-01,TCGA-AA-3947,FANCD2,0.1531,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3947-01,TCGA-AA-3947,PALB2,0.1041,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3947-01,TCGA-AA-3947,BRIP1,0.0781,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3949-01,TCGA-AA-3949,ATM,0.0948,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3949-01,TCGA-AA-3949,ATM,0.0875,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3949-01,TCGA-AA-3949,ATM,0.0948,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3949-01,TCGA-AA-3949,NBN,0.0668,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3966-01,TCGA-AA-3966,ATM,0.1338,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3966-01,TCGA-AA-3966,FANCF,0.7381,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATM,0.0947,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATR,0.2324,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATR,0.0876,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATR,0.2324,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATRX,0.4675,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATRX,0.3151,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3977-01,TCGA-AA-3977,ATRX,0.7314,pathogenic
@@ -2526,8 +2526,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3984-01,TCGA-AA-3984,CDK12,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3984-01,TCGA-AA-3984,BRIP1,0.0882,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3984-01,TCGA-AA-3984,BRIP1,0.5064,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-3989-01,TCGA-AA-3989,CDK12,0.0715,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,ATM,0.1727,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,ATM,0.2668,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,ATM,0.1727,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,ATRX,0.976,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,ATRX,0.3647,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A00N-01,TCGA-AA-A00N,BRCA2,0.0985,benign
@@ -2544,9 +2544,9 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,ATR,0.1
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,ATR,0.0844,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,ATRX,0.2932,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,BRCA1,0.1274,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,BRCA2,0.0703,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,BRCA2,0.1464,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,BRCA2,0.138,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,BRCA2,0.0703,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,CHEK1,0.166,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,FANCA,0.9108,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AA-A010-01,TCGA-AA-A010,RAD50,0.0542,benign
@@ -2572,8 +2572,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3592-01,TCGA-AG-3592,ATM,0.2
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3732-01,TCGA-AG-3732,RAD50,0.99,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3885-01,TCGA-AG-3885,ATM,0.214,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3885-01,TCGA-AG-3885,ATM,0.5489,ambiguous
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATM,0.4668,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATM,0.1626,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATM,0.4668,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATR,0.4264,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATRX,0.9603,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-3892-01,TCGA-AG-3892,ATRX,0.9999,pathogenic
@@ -2596,8 +2596,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATM,0.2
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATM,0.0773,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATM,0.102,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATR,0.4905,ambiguous
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATR,0.1145,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATR,0.5124,ambiguous
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATR,0.1145,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATR,0.8138,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATRX,0.4845,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AG-A002-01,TCGA-AG-A002,ATRX,0.1982,benign
@@ -2641,15 +2641,15 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AY-A69D-01,TCGA-AY-A69D,ATRX,0.
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,ATM,0.1625,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,ATM,0.9449,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,ATRX,0.192,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRCA2,0.1585,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRCA2,0.1538,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRCA2,0.0788,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRCA2,0.1585,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,RAD51C,0.0977,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,CDK12,0.1938,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRIP1,0.0687,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4315-01,TCGA-AZ-4315,BRIP1,0.0613,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4615-01,TCGA-AZ-4615,FANCA,0.6011,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4615-01,TCGA-AZ-4615,FANCA,0.0836,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4615-01,TCGA-AZ-4615,FANCA,0.6011,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-4615-01,TCGA-AZ-4615,RAD50,0.9971,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-6598-01,TCGA-AZ-6598,ATRX,0.0549,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-AZ-6599-01,TCGA-AZ-6599,BRCA2,0.0775,benign
@@ -2680,8 +2680,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,CHEK1,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,FANCA,0.133,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,FANCA,0.2567,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,FANCF,0.1453,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,NBN,0.2895,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,NBN,0.9607,pathogenic
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,NBN,0.2895,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,RAD50,0.2245,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,RAD50,0.9267,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,RAD50,0.9546,pathogenic
@@ -2689,8 +2689,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,RAD50,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,CHEK2,0.6225,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,CDK12,0.0692,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,FANCL,0.0609,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,BRIP1,0.077,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,BRIP1,0.0962,benign
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6717-01,TCGA-CA-6717,BRIP1,0.077,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6718-01,TCGA-CA-6718,ATM,0.3232,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6718-01,TCGA-CA-6718,ATRX,0.1119,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CA-6718-01,TCGA-CA-6718,ATRX,0.9145,pathogenic
@@ -2704,11 +2704,11 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CI-6624-01,TCGA-CI-6624,BRCA2,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4947-01,TCGA-CK-4947,ATM,0.8318,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4950-01,TCGA-CK-4950,ATRX,0.9995,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,RAD51D,,not_found
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.0816,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.2409,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.0977,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.9994,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.8583,pathogenic
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-4951-01,TCGA-CK-4951,CDK12,0.0816,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-5912-01,TCGA-CK-5912,ATR,0.6349,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-5915-01,TCGA-CK-5915,RAD50,0.4428,ambiguous
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-CK-5916-01,TCGA-CK-5916,BRCA1,0.0798,benign
@@ -2807,8 +2807,8 @@ coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,RAD50,0
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CHEK2,0.2014,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CDK12,0.0835,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CDK12,0.1078,benign
-coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CDK12,0.9747,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CDK12,0.9706,pathogenic
+coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,CDK12,0.9747,pathogenic
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,PALB2,0.1094,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-F5-6814-01,TCGA-F5-6814,PALB2,0.0914,benign
 coadread_tcga_pan_can_atlas_2018,Colorectal,TCGA-G4-6293-01,TCGA-G4-6293,ATM,0.2226,benign
@@ -2840,8 +2840,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-B7-5816-01,TCGA-B7-5816,CDK12,0.908,pa
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-B7-A5TI-01,TCGA-B7-A5TI,ATR,0.962,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-B7-A5TI-01,TCGA-B7-A5TI,NBN,0.1191,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-B7-A5TJ-01,TCGA-B7-A5TJ,MRE11,0.9974,pathogenic
-stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,BRCA2,0.1836,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,BRCA2,0.0634,benign
+stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,BRCA2,0.1836,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,FANCA,0.0794,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,FANCD2,0.0703,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4184-01,TCGA-BR-4184,CDK12,0.555,ambiguous
@@ -2859,8 +2859,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4292-01,TCGA-BR-4292,ATM,0.7459,pat
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,ATM,0.0694,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,ATRX,0.7598,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,BARD1,0.9922,pathogenic
-stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,BRCA2,0.07,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,BRCA2,0.0899,benign
+stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,BRCA2,0.07,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,FANCE,0.134,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,CHEK2,0.127,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-BR-4361-01,TCGA-BR-4361,CHEK2,0.1297,benign
@@ -3016,8 +3016,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-IN-A6RP-01,TCGA-IN-A6RP,BRCA2,0.8214,p
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-KB-A93H-01,TCGA-KB-A93H,BARD1,0.1742,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-MX-A5UJ-01,TCGA-MX-A5UJ,RAD51D,,not_found
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-R5-A7ZE-01,TCGA-R5-A7ZE,ATR,0.0699,benign
-stad_tcga_pan_can_atlas_2018,Gastric,TCGA-R5-A7ZI-01,TCGA-R5-A7ZI,ATM,0.5142,ambiguous
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-R5-A7ZI-01,TCGA-R5-A7ZI,ATM,0.1171,benign
+stad_tcga_pan_can_atlas_2018,Gastric,TCGA-R5-A7ZI-01,TCGA-R5-A7ZI,ATM,0.5142,ambiguous
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-R5-A7ZI-01,TCGA-R5-A7ZI,ATR,0.9986,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-RD-A8N9-01,TCGA-RD-A8N9,ATR,0.2319,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-RD-A8NB-01,TCGA-RD-A8NB,ATM,0.16,benign
@@ -3032,8 +3032,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,FANCG,0.086,be
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,NBN,0.1926,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,RAD50,0.2534,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,FANCL,0.2318,benign
-stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,BRIP1,0.1021,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,BRIP1,0.074,benign
+stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8P2-01,TCGA-VQ-A8P2,BRIP1,0.1021,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PB-01,TCGA-VQ-A8PB,RAD54L,0.7842,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PB-01,TCGA-VQ-A8PB,PALB2,0.1582,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PC-01,TCGA-VQ-A8PC,ATM,0.6019,pathogenic
@@ -3044,8 +3044,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PP-01,TCGA-VQ-A8PP,ATM,0.0603,ben
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PP-01,TCGA-VQ-A8PP,FANCD2,0.0623,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PP-01,TCGA-VQ-A8PP,BRIP1,0.0866,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A8PT-01,TCGA-VQ-A8PT,BRCA2,0.0791,benign
-stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,ATM,0.2818,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,ATM,0.246,benign
+stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,ATM,0.2818,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,BARD1,0.0847,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,BRCA2,0.0535,benign
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91D-01,TCGA-VQ-A91D,FANCA,0.112,benign
@@ -3055,8 +3055,8 @@ stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91E-01,TCGA-VQ-A91E,ATM,0.0749,ben
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91E-01,TCGA-VQ-A91E,FANCA,0.8267,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-A91Z-01,TCGA-VQ-A91Z,BRIP1,0.8242,pathogenic
 stad_tcga_pan_can_atlas_2018,Gastric,TCGA-VQ-AA6K-01,TCGA-VQ-AA6K,ATM,0.6087,pathogenic
-hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-5556-01,TCGA-BA-5556,ATRX,0.9145,pathogenic
 hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-5556-01,TCGA-BA-5556,ATRX,0.1075,benign
+hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-5556-01,TCGA-BA-5556,ATRX,0.9145,pathogenic
 hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-5559-01,TCGA-BA-5559,BRIP1,0.1825,benign
 hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-6869-01,TCGA-BA-6869,BRCA2,0.1671,benign
 hnsc_tcga_pan_can_atlas_2018,Head & Neck,TCGA-BA-6872-01,TCGA-BA-6872,BRCA1,0.3512,ambiguous
@@ -3278,9 +3278,9 @@ skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C7-06,TCGA-D3-A3C7,ATM,0.4157,am
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C7-06,TCGA-D3-A3C7,FANCC,0.5764,pathogenic
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C7-06,TCGA-D3-A3C7,PALB2,0.1976,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,ATM,0.2667,benign
+skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,ATRX,0.9995,pathogenic
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,ATRX,0.1243,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,ATRX,0.0777,benign
-skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,ATRX,0.9995,pathogenic
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,CHEK1,0.0726,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3C8-06,TCGA-D3-A3C8,BRIP1,0.0824,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-D3-A3CC-06,TCGA-D3-A3CC,FANCD2,0.0804,benign
@@ -3570,8 +3570,8 @@ skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,ATR,0.9699,pa
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,ATR,0.1935,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,ATRX,0.0736,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,BRCA1,0.0834,benign
-skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,BRCA2,0.0752,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,BRCA2,0.0768,benign
+skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,BRCA2,0.0752,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,BRCA2,0.0799,benign
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,CHEK1,0.462,ambiguous
 skcm_tcga_pan_can_atlas_2018,Melanoma,TCGA-FW-A3R5-06,TCGA-FW-A3R5,FANCD2,0.0986,benign
@@ -3745,8 +3745,8 @@ esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-L5-A8NS-01,TCGA-L5-A8NS,FANCA,0.326
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-L7-A6VZ-01,TCGA-L7-A6VZ,RAD50,0.4602,ambiguous
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A49L-01,TCGA-LN-A49L,FANCF,0.1168,benign
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A49P-01,TCGA-LN-A49P,NBN,0.5818,pathogenic
-esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A49Y-01,TCGA-LN-A49Y,ATM,0.1464,benign
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A49Y-01,TCGA-LN-A49Y,ATM,0.629,pathogenic
+esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A49Y-01,TCGA-LN-A49Y,ATM,0.1464,benign
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A4A2-01,TCGA-LN-A4A2,BRCA2,0.1031,benign
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A9FP-01,TCGA-LN-A9FP,BRCA1,0.1163,benign
 esca_tcga_pan_can_atlas_2018,Esophageal,TCGA-LN-A9FR-01,TCGA-LN-A9FR,ATR,0.839,pathogenic
@@ -3927,10 +3927,10 @@ gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5950-01,TCGA-19-5950,ATM,0.0655
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5953-01,TCGA-19-5953,RAD51C,0.0669,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATR,0.0797,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATR,0.6699,pathogenic
-gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATRX,0.9982,pathogenic
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATRX,0.9992,pathogenic
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATRX,0.9445,pathogenic
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATRX,0.0707,benign
+gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,ATRX,0.9982,pathogenic
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BARD1,0.0931,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRCA1,0.0991,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRCA1,0.1528,benign
@@ -3946,9 +3946,9 @@ gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,FANCF,0.08
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,RAD51C,0.1181,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,CDK12,0.0835,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,CDK12,0.3061,benign
-gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRIP1,0.2105,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRIP1,0.0821,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRIP1,0.2067,benign
+gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-19-5956-01,TCGA-19-5956,BRIP1,0.2105,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-26-1799-01,TCGA-26-1799,ATRX,0.9869,pathogenic
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-26-6174-01,TCGA-26-6174,BRCA2,0.0865,benign
 gbm_tcga_pan_can_atlas_2018,Glioblastoma,TCGA-27-2521-01,TCGA-27-2521,BRCA2,0.0622,benign
@@ -4111,13 +4111,13 @@ thca_tcga_pan_can_atlas_2018,Thyroid,TCGA-J8-A3YE-01,TCGA-J8-A3YE,ATM,0.4725,amb
 thca_tcga_pan_can_atlas_2018,Thyroid,TCGA-KS-A4IB-01,TCGA-KS-A4IB,CHEK2,0.9782,pathogenic
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATM,0.5691,pathogenic
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATR,0.2741,benign
+cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATRX,0.9982,pathogenic
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATRX,0.0875,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATRX,0.1214,benign
-cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,ATRX,0.9982,pathogenic
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,BARD1,0.0882,benign
+cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,BRCA2,0.3486,ambiguous
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,BRCA2,0.0813,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,BRCA2,0.1538,benign
-cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,BRCA2,0.3486,ambiguous
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,FANCA,0.3064,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,FANCD2,0.9244,pathogenic
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-2W-A8YY-01,TCGA-2W-A8YY,FANCE,0.1129,benign
@@ -4174,8 +4174,8 @@ cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-FU-A3HZ-01,TCGA-FU-A3HZ,ATM,0.3008,be
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-FU-A3HZ-01,TCGA-FU-A3HZ,BRCA2,0.1104,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-FU-A3TQ-01,TCGA-FU-A3TQ,ATR,0.0717,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-FU-A3TX-01,TCGA-FU-A3TX,BRCA1,0.1576,benign
-cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-GH-A9DA-01,TCGA-GH-A9DA,ATR,0.1145,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-GH-A9DA-01,TCGA-GH-A9DA,ATR,0.0831,benign
+cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-GH-A9DA-01,TCGA-GH-A9DA,ATR,0.1145,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-GH-A9DA-01,TCGA-GH-A9DA,MRE11,0.3556,ambiguous
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-IR-A3LA-01,TCGA-IR-A3LA,ATM,0.1258,benign
 cesc_tcga_pan_can_atlas_2018,Cervical,TCGA-IR-A3LA-01,TCGA-IR-A3LA,ATRX,0.0613,benign
@@ -4258,8 +4258,8 @@ dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TT-01,TCGA-GS-A9TT,FANCD2,0.1093,be
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TW-01,TCGA-GS-A9TW,ATR,0.4487,ambiguous
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TW-01,TCGA-GS-A9TW,FANCL,0.3376,benign
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TY-01,TCGA-GS-A9TY,BRCA1,0.1238,benign
-dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,ATR,0.2285,benign
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,ATR,0.897,pathogenic
+dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,ATR,0.2285,benign
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,BRCA1,0.1011,benign
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,CDK12,0.1475,benign
 dlbc_tcga_pan_can_atlas_2018,DLBCL,TCGA-GS-A9TZ-01,TCGA-GS-A9TZ,PALB2,0.4642,ambiguous
@@ -4287,9 +4287,9 @@ ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATR,0.1398,benign
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATR,0.5616,ambiguous
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATR,0.1443,benign
-ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATRX,0.9262,pathogenic
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATRX,0.9852,pathogenic
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATRX,0.5388,ambiguous
+ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,ATRX,0.9262,pathogenic
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,BARD1,0.2257,benign
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,BRCA2,0.3143,benign
 ucs_tcga_pan_can_atlas_2018,Uterine Carcinosarcoma,TCGA-ND-A4WC-01,TCGA-ND-A4WC,BRCA2,0.066,benign
