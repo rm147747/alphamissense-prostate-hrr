@@ -61,6 +61,20 @@ pip install -r requirements.txt
 jupyter notebook Notebook1_AlphaMissense_PRAD_HRR.ipynb
 ```
 
+### Re-run from Scratch (Clean State)
+
+To ensure full reproducibility without leftover artifacts:
+
+```bash
+rm -rf results/ figures/ data/processed/ data/pancancer/
+mkdir -p results figures data/processed data/pancancer
+
+# Then execute notebooks in order: NB1 → NB2 → NB3 → NB4
+# Each notebook will recreate its outputs from upstream data.
+```
+
+> **Note:** NB1 downloads data from cBioPortal (requires internet). Subsequent notebooks depend on outputs from prior ones — running out of order will fail with a clear FileNotFoundError.
+
 ### Environment
 
 - **Python:** 3.12.3
@@ -118,6 +132,12 @@ The thresholds were calibrated by [Cheng et al. (Science 2023)](https://doi.org/
 - **Meta-analysis:** Fixed-effect inverse-variance + REML random-effects + Hartung–Knapp CI + prediction interval
 - **Concordance:** Cohen's κ with 2,000-iteration bootstrap 95% CI
 - **Sensitivity:** Event threshold (≥3/5/10), ridge penalty sweep (λ = 0.001–0.5)
+
+## Scope & Ethics
+
+This repository is **paper-only** — it reproduces the analyses described in the manuscript. It is not a supported CLI tool or library.
+
+This study used only publicly available, de-identified datasets (TCGA via cBioPortal, ClinVar, AlphaMissense). IRB approval was not required.
 
 ## Limitations & Intended Use
 
